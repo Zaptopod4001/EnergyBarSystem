@@ -3,6 +3,8 @@
 
 ## What is it?
 
+![Energy bar image](/doc/energyBar.png)
+
 Energy bar system allows to spawn one or more object linked HUD energy bars to target canvas.
 
 * Spawn energy bars and link them to target canvas and make them follow a target object
@@ -19,8 +21,6 @@ Energy bar system allows to spawn one or more object linked HUD energy bars to t
 
 ## BarCreator MonoBehaviour
 Call Create method of class to instantiate energy bar over a target object. Create automatically attaches energy bar to target canvas, assigns it a target object and inits it.
-
-![Energy bar image](/doc/energyBar.png)
 
 ## BarHandler MonoBehaviour
 Handles moving and updating of the energy bar it owns. Call methods to Update energy bar text and bar.
