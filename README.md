@@ -9,7 +9,7 @@ Energy bar system allows to spawn one or more object linked HUD energy bars to t
 
 * Automatic culling for off screen (behind the camera) energy bars to circumvent known issue with Unity screen space elements
 
-* Stepped, interval update for energy bar texts.
+* Stepped, interval update for energy bar texts
 
 * Raycast click detection on energy bars and click event support for energy bar
 
