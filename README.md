@@ -28,9 +28,6 @@ Handles moving and updating of the energy bar it owns. Call methods to Update en
 ## Test scripts
 Scripts_test folder contains scripts that are only relevant for the demo scene (wandering NPCs). These scripts show how to setup elements, and how to spawn energy bars, how to add bar click event listeners and how to update energy bars. Use arrow keys to walk and move around NPC crowd.
 
-![Energy bar gif](/doc/energyBar2.gif)
-
-
 ## About
 I created Energy Bar System for myself for different personal Unity projects. 
 
