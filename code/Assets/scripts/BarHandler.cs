@@ -8,7 +8,15 @@ using UnityEngine.Rendering;
 
 namespace EnergyBar
 {
+    // Copyright Sami S.
 
+    // use of any kind without a written permission 
+    // from the author is not allowed.
+
+    // DO NOT:
+    // Fork, clone, copy or use in any shape or form.
+
+    
     // Handles bar position in canvas
     // Call methods to update bar fill and text
     // Attached to bar element spawned to canvas
